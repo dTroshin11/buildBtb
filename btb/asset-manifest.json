@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.b22b91c0.css",
-    "main.js": "./static/js/main.e83f34cc.js",
+    "main.css": "./static/css/main.efa51824.css",
+    "main.js": "./static/js/main.64c9ba66.js",
     "static/media/Manrope-Regular.woff2": "./static/media/Manrope-Regular.405ae32ab274e59d4eee.woff2",
     "static/media/middleBg.png": "./static/media/middleBg.3beba4936a3cd7ebb001.png",
     "static/media/Manrope-Regular.woff": "./static/media/Manrope-Regular.2046a49b5fa996c43f44.woff",
     "index.html": "./index.html",
     "static/media/formBg.svg": "./static/media/formBg.8b78f0c087d4e619aa85.svg",
     "static/media/checkbox.svg": "./static/media/checkbox.d92f3164b5b8bb2b0b9a.svg",
-    "main.b22b91c0.css.map": "./static/css/main.b22b91c0.css.map",
-    "main.e83f34cc.js.map": "./static/js/main.e83f34cc.js.map"
+    "main.efa51824.css.map": "./static/css/main.efa51824.css.map",
+    "main.64c9ba66.js.map": "./static/js/main.64c9ba66.js.map"
   },
   "entrypoints": [
-    "static/css/main.b22b91c0.css",
-    "static/js/main.e83f34cc.js"
+    "static/css/main.efa51824.css",
+    "static/js/main.64c9ba66.js"
   ]
 }
